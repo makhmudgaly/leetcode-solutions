@@ -7,14 +7,6 @@ class Solution:
             "UP": (-1, 0)
         }
         
-        matrix = [[]]*n
-        for i in range(n):
-            matrix[i].append([]*n)
-        
-        for i in range(n):
-            for j in range(n):
-                matrix[i][j] = (i*n) + j
-        
         row = 0
         col = 0
         for command in commands:
