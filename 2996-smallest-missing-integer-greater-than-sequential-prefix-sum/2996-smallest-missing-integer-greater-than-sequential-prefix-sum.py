@@ -9,10 +9,8 @@ class Solution:
                 break
                 
             prefix_sum += nums[i]
-            max_prefix = max(prefix_sum, prefix_sum)
         
-        for missing_value in range(max_prefix, 2*max_prefix+51):
-            if missing_value not in d:
-                return missing_value
-        
-        return max_prefix
+        while True:
+            if prefix_sum not in d:
+                return prefix_sum
+            prefix_sum +=1
