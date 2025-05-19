@@ -17,8 +17,6 @@ class Solution:
         
         k = k % length
         
-        
-        
         if (k == 0 and length > 1) or k == length:
             return head
         
