@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -36,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
