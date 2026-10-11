@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/makhmudgaly/leetcode-solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 <!---LeetCode Topics End-->
